@@ -1,3 +1,5 @@
+TUTORIAL-1
+
 Create a Python program that repeats the sampling process 1,000 times for sample
 sizes n = 5 and n = 10. For each sample size, randomly draw 1,000 samples from
 the population and calculate the mean of every sample. Calculate the standard
@@ -6,3 +8,8 @@ Also, calculate the theoretical standard error using the population parameters a
 display both estimates for comparison. Finally, plot a histogram of the 1,000 sample
 means, overlay the corresponding theoretical normal PDF, and clearly mark the
 population mean on each graph.
+
+SINE CURVE
+
+created a python pgm to visualise a sine curve using python libraries like matlplotlib 
+and numpy
